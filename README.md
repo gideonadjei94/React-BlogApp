@@ -8,4 +8,6 @@ also deleting data from a locally created JSON flle.The following are the concep
 * Props in React and how to use and to destructure
 * Hooks in React and how t use them
 * Components , reusability and Creation of custom Components
+* Event Handling
+* Routing in React
 * JSON server for making requests and recieving data from a local JSON file
