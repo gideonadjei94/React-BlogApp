@@ -20,3 +20,8 @@ also deleting data from a locally created JSON flle.The following are the concep
 ![Vite + React and 1 more page - Profile 1 - Microsoft​ Edge 3_13_2024 4_52_05 PM](https://github.com/gideonadjei94/React-BlogApp/assets/124469965/1ce1072c-2f3a-4879-a8e5-6011d7419bbd)
 
 
+
+![Vite + React and 1 more page - Profile 1 - Microsoft​ Edge 3_13_2024 4_52_33 PM](https://github.com/gideonadjei94/React-BlogApp/assets/124469965/9ade79c4-3afa-41f5-9daa-aa1fdcde185f)
+
+
+
