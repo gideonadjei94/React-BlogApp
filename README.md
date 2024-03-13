@@ -13,9 +13,6 @@ also deleting data from a locally created JSON flle.The following are the concep
 * JSON server for making requests and recieving data from a local JSON file
 
 
-<img src = "https://github.com/gideonadjei94/React-BlogApp/assets/124469965/fb55c00b-a9cf-4582-86a3-85827cbf1ca4" width = "300" height = "350">
-
-
 ![Vite + React and 1 more page - Profile 1 - Microsoft​ Edge 3_13_2024 4_51_36 PM](https://github.com/gideonadjei94/React-BlogApp/assets/124469965/fb55c00b-a9cf-4582-86a3-85827cbf1ca4)
 
 
